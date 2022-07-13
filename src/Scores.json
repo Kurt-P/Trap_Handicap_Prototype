@@ -1,43 +1,51 @@
 {
+    "Players": [
+        {
+            "Player": "Kurt P"
+        },
+        {
+            "Player": "Player 2"
+        }
+    ],
     "Scores": [
         {
-            "Person": "Kurt P",
+            "Player": "Kurt P",
             "Date": "2022-06-01",
             "Score": 12
         },
         {
-            "Person": "Kurt P",
+            "Player": "Kurt P",
             "Date": "2022-06-01",
             "Score": 13
         },
         {
-            "Person": "Kurt P",
+            "Player": "Kurt P",
             "Date": "2022-06-01",
             "Score": 12
         },
         {
-            "Person": "Player 2",
+            "Player": "Player 2",
             "Date": "2022-06-01",
             "Score": 16
         },
         {
-            "Person": "Player 2",
+            "Player": "Player 2",
             "Date": "2022-06-01",
             "Score": 18
         },
         {
-            "Person": "Player 2",
+            "Player": "Player 2",
             "Date": "2022-06-01",
             "Score": 17
         }
     ],
     "Handicaps": [
         {
-            "Person": "Kurt P",
+            "Player": "Kurt P",
             "Handicap": 12
         },
         {
-            "Person":"Player 2",
+            "Player":"Player 2",
             "Handicap": 17
         }
     ]
